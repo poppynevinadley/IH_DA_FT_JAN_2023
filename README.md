@@ -254,7 +254,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1OkpxrDnf3TF4hUDzXa8ZxFuz-JbQjfcXNSCkrItjyBw/edit?usp=sharing">Weekly Recap</a>
 <p>
@@ -352,7 +352,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-Part_2.ipynb">[Code Along] Pandas_Part_2</a>
+   <td><a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-Part_2.ipynb">[Code Along] Pandas_Part_2</a>
 <p>
 <br>
 <p>
