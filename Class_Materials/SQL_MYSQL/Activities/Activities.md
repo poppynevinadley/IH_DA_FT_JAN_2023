@@ -9,6 +9,6 @@ Suppose you are given the following requirements for a simple database for the N
 + a game is played between two teams (referred to as host_team and guest_team) and has a date (such as May 11th, 2017) and a score (such as 4 to 2).
 
 
-Please construct clean ERD Diagram for the NHL database.
+Please construct a clean ERD Diagram for the NHL database.
 
 Source: California State University 

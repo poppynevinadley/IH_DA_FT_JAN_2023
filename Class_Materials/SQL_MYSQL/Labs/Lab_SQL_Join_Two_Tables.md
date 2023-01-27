@@ -110,7 +110,7 @@ IDA	ANDREWS	76.77
 
 Expect output: no actor found. 
 
-10. get the addresses that has NO customers, and ends with the letter "e" 
+10. get the addresses that have NO customers, and ends with the letter "e" 
 ```shell
 address
 "47 MySakila Drive"
