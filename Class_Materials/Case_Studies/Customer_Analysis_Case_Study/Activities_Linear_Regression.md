@@ -1,5 +1,5 @@
 ### Activity
-(Tuseday)
+(Tuesday)
 #### Linear Regression
 - X-y split (y is the target variable, which is the total claim amount)
 - Train-test split.

@@ -10,7 +10,7 @@ Hint: use the file  ```Data_Marketing_Customer_Analysis_Round3.csv```
 **(Optional Task)**
 by Peter Zimmerman
 
-Begin by visually examining distributions (histagrams) of the numerical features. Select a variable, call it varA, which takes on a wide range of numerical values, and another, varB, which has noticably large skew (slanted with respect to the mean). For example, you might select customer_lifetime_value as a candidate varB which has skew.
+Begin by visually examining distributions (histograms) of the numerical features. Select a variable, call it varA, which takes on a wide range of numerical values, and another, varB, which has noticeably large skew (slanted with respect to the mean). For example, you might select customer_lifetime_value as a candidate varB which has skew.
 
 1. varA
 - Use minmax transform to bring varA's values into the range [0,1].
