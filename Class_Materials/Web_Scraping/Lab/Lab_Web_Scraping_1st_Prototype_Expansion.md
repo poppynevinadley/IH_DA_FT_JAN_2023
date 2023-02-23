@@ -12,7 +12,7 @@
   - their strategy, and
   - how your project fits into this context.
 
-  Re-read the business case and the e-mail from the CTO, and take a look at the flowchart.
+  Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
 
 #### Instructions 
 
@@ -33,6 +33,10 @@ If you couldn't finish the first lab, use this time to go back there.
 - Do we build the interaction with the user in the same notebook as the web-scraping?
 - Where do we store the scraped songs?
 
+**Scheduling / Automation:**
+
+- Should we scrape billboard / wikipedia every time a user sends a request?
+
 **Testing:**
 
 - Does it work when you test it with a real user (a colleague)?
@@ -45,6 +49,7 @@ Chances are that more issues will appear, and that not all of them will be solve
 If you're done, you can try to expand the project on your own. Here are a few suggestions:
 
 - Find other lists of hot songs on the internet and scrape them too: having a bigger pool of songs will be awesome!
+- Apply the same logic to other "groups" of songs: the best songs from a decade or from a country / culture / language / genre.
 - Wikipedia maintains a large collection of lists of songs: https://en.wikipedia.org/wiki/Lists_of_songs
 
 #### Practice web scraping

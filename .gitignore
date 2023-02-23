@@ -2,8 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-config.py
-config.py
+
 # C extensions
 *.so
 
@@ -153,5 +152,3 @@ Class_Materials/Statistics/.DS_Store
 .DS_Store
 .DS_Store
 Class_Materials/Data Processing/.DS_Store
-Class_Materials/Machine_Learning/Unsupervised_Learning/config.py
-Class_Materials/Machine_Learning/Unsupervised_Learning/config2.py

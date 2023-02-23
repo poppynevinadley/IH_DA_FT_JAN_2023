@@ -5,18 +5,18 @@ For this lab we will build a model on customer churn binary classification probl
 
 ### Scenario
 
-You are working as an analyst for an internet service provider. You are provided with this historical data about your company's customers and their churn trends. Your task is to build a machine learning model that will help the company identify customers that are more likely to default/churn and thus prevent losses from such customers.
+You are working as an analyst with this internet service provider. You are provided with this historical data about your company's customers and their churn trends. Your task is to build a machine learning model that will help the company identify customers that are more likely to default/churn and thus prevent losses from such customers.
 
 ### Instructions
 
-In this lab, we will first take a look at the degree of imbalance in the data and correct it using the techniques we learned in class.
+In this lab, we will first take a look at the degree of imbalance in the data and correct it using the techniques we learned on the class.
 
 Here is the list of steps to be followed (building a simple model without balancing the data):
 
 Round 1
 - Import the required libraries and modules that you would need.
 - Read that data into Python and call the dataframe `churnData`.
-- Check the datatypes of all the columns in the data. You will see that the column `TotalCharges` is object type. Convert this column into numeric type using `pd.to_numeric` function.
+- Check the datatypes of all the columns in the data. You would see that the column `TotalCharges` is object type. Convert this column into numeric type using `pd.to_numeric` function.
 - Check for null values in the dataframe. Replace the null values.
 - Use the following features: `tenure`, `SeniorCitizen`, `MonthlyCharges` and `TotalCharges`:
   - Split the data into a training set and a test set.

@@ -3,11 +3,11 @@
 # Lab | Comparing regression models
 
 
-For this lab, we will be using the same dataset for the customer analysis case study we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
+For this lab, we will be using the same dataset for the [customer analysis case study](https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md) we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
 
 ### Instructions
 
-1. fit the models  `LinearRegression`,`Lasso` and `Ridge` and compare the model performances. 
-2. (Optional) Define a function that takes a list of models and trains (and tests) them so we can try a lot of them without repeating code.
-3. Use feature selection techniques (P-Value, RFE) to select subset of features to train the model with(if necessary).
-4. (optional) Refit the models with the selected features.
+1. fit the models  `LinearRegressor`,`Lasso`,`Ridge` and (optional `KNeighborsRegressor` ) and compare the model performances. 
+2. (Optional) Define a function that takes a list of models and train (and tests) them so we can try a lot of them without repeating code.
+3. Use feature selection techniques(P-Value, RFE) to select subset of features to train the model with(if necessary).
+4. (optional) refit the models with the selected features.
