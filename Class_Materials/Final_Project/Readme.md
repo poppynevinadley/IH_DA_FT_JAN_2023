@@ -14,13 +14,13 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 - Scope and manage a full data analysis project with minimal supervision
 - Look for interesting challenges to solve using available data
 - Identify the best approach to solve business problems using data analytics skills
-- Use Tableau or Python visual libraries(or any) at a profesional level to visualize insights and present your work
-- Select the algorithm, statistical methods or technical building blocks that could give the best results, most efficiently
+- Use Tableau or Python visual libraries(or any) at a professional level to visualize insights and present your work
+- Select the algorithm, statistical methods or technical building blocks that give the best results
 
 ### Rules
 - Team of two people is recommended and it is the maximum number allowed. An exception might be applied after the approval from the teaching team.
-- every team has 5 minutes presentation (unless if u have bonus) and 5 mins Q&A/feedback.
-- you should come prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of some questions that needs clarifications.
+- every team has 6 minutes of presentation time (unless you have a bonus point) and 5 mins for Q&A/feedback.
+- you should come prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of questions that need clarification.
 --- 
 
 ## Datasets
@@ -69,9 +69,9 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 ## Project Stages
 
 
-+ Source, Analize and identify one dataset to work with
++ Source, Analyze and identify one dataset to work with
 + Present your business problem to the teaching staff. 
-   + "Elevator Pitch" Challenge - 2 minute presentation of the idea*
+   + "Elevator Pitch" Challenge - 1 minute presentation of the idea*
 + Plan and organize your project roadmap
 + Workflow
 + Presentation 
